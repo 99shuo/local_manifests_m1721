@@ -15,6 +15,7 @@
     <project path="device/meizu/m1721" name="android_device_meizu_m1721" remote="99shuo" revision="lineage-21.0-4.19" />
 
     <!-- Device - Common -->
+    <project path="device/meizu/m1721/libmmcamera_s5k3p8sp03" name="libmmcamera_s5k3p8sp03" remote="99shuo" revision="master" />
 
     <!-- Kernel -->
     <project path="kernel/meizu/m1721" name="android_kernel_meizu_m1721" remote="99shuo" revision="lineage-20" />
